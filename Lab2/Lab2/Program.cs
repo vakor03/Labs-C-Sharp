@@ -5,11 +5,16 @@ namespace Lab2
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            Console.Write("Input x: ");
             float x = float.Parse(Console.ReadLine());
+            
+            Console.Write("Input y: ");
             float y = float.Parse(Console.ReadLine());
+            
             int isInShape;
             string Output;
+            
             if (x >= -1)
             {
                 isInShape = 1;
@@ -22,7 +27,7 @@ namespace Lab2
             {
                 isInShape = 0;
             }
-
+            
             if (isInShape == 1)
             {
                 Output = "Точка належить площинi";
