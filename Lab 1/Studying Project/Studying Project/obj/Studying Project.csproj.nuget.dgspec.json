@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj": {}
+    "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Studying Project\\Studying Project\\Studying Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Studying Project\\Studying Project\\Studying Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj",
-        "projectName": "Lab2",
-        "projectPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Studying Project\\Studying Project\\Studying Project.csproj",
+        "projectName": "Studying Project",
+        "projectPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Studying Project\\Studying Project\\Studying Project.csproj",
         "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\obj\\",
+        "outputPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Studying Project\\Studying Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj",
-    "projectName": "Lab2",
-    "projectPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj",
-    "outputPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\obj\\",
+    "projectUniqueName": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Lab 1\\Lab 1\\Lab 1.csproj",
+    "projectName": "Lab 1",
+    "projectPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Lab 1\\Lab 1\\Lab 1.csproj",
+    "outputPath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Lab 1\\Lab 1\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

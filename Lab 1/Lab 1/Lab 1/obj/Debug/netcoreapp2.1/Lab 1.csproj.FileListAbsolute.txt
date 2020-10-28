@@ -1,0 +1,11 @@
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.deps.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.dev.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\Ryzen\Desktop\Labs C#\Lab 1\Lab 1\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.pdb

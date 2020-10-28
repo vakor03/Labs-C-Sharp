@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jO62LUQn8bfNqeF3kHEJHft19U1TnKraDcfKsN1FBdbkYvbMzEIds4tgVWf0YNBf862moTvtw/Wr7HKCb53Nuw==",
+  "dgSpecHash": "zKdOSB2Ov43ObXvvarT9LAmcIF2P5sgQhiVhYQMdY8Bkirfk3B/uFQ4FjQwlBdIf+Gm3SVtg6lEhYJuhwy1yEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab2\\Lab2\\Lab2.csproj",
+  "projectFilePath": "C:\\Users\\Ryzen\\Desktop\\Labs C#\\Lab 1\\Lab 1\\Lab 1\\Lab 1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
