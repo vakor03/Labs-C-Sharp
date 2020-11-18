@@ -9,6 +9,7 @@ namespace Studying_Project
             Console.WriteLine("Hello World!");
             
             Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }

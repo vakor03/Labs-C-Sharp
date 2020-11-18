@@ -1,0 +1,11 @@
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\bin\Debug\netcoreapp2.1\lab3.deps.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\bin\Debug\netcoreapp2.1\lab3.runtimeconfig.dev.json
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\bin\Debug\netcoreapp2.1\lab3.dll
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\bin\Debug\netcoreapp2.1\lab3.pdb
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.csprojAssemblyReference.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.dll
+C:\Users\Ryzen\Desktop\Labs C#\Lab 3\lab3\lab3\obj\Debug\netcoreapp2.1\lab3.pdb
