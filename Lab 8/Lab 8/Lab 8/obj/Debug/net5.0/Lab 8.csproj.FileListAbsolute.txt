@@ -1,0 +1,16 @@
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.exe
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.deps.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.runtimeconfig.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.runtimeconfig.dev.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\ref\Lab 8.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\bin\Debug\net5.0\Lab 8.pdb
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.csprojAssemblyReference.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.AssemblyInfoInputs.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.AssemblyInfo.cs
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\ref\Lab 8.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.pdb
+C:\Users\Вакор\Desktop\Labs C#\Lab 8\Lab 8\Lab 8\obj\Debug\net5.0\Lab 8.genruntimeconfig.cache

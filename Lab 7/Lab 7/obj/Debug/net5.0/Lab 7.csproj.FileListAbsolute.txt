@@ -1,0 +1,16 @@
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.exe
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.deps.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.runtimeconfig.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.runtimeconfig.dev.json
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\ref\Lab 7.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\bin\Debug\net5.0\Lab 7.pdb
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.csprojAssemblyReference.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.AssemblyInfoInputs.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.AssemblyInfo.cs
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\ref\Lab 7.dll
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.pdb
+C:\Users\Вакор\Desktop\Labs C#\Lab 7\Lab 7\obj\Debug\net5.0\Lab 7.genruntimeconfig.cache
