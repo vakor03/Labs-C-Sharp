@@ -6,4 +6,8 @@
         <RootNamespace>Lab_8</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\lib\lib.csproj" />
+    </ItemGroup>
+
 </Project>

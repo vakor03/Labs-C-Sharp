@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab 9/1.0.0": {
+        "dependencies": {
+          "ClassLibrary2": "1.0.0",
+          "ClassLibrary29876": "1.0.0",
+          "StringLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lab 9.dll": {}
+        }
+      },
+      "ClassLibrary2/1.0.0": {
+        "runtime": {
+          "ClassLibrary2.dll": {}
+        }
+      },
+      "ClassLibrary29876/1.0.0": {
+        "runtime": {
+          "ClassLibrary29876.dll": {}
+        }
+      },
+      "StringLibrary/1.0.0": {
+        "runtime": {
+          "StringLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary29876/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

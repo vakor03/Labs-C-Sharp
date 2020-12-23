@@ -13,6 +13,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lib/Class1.cs" />
+        <option value="$PROJECT_DIR$/lib/LB.cs" />
         <option value="$PROJECT_DIR$/Lab 8/Program.cs" />
       </list>
     </option>
@@ -57,6 +59,8 @@
       <updated>1608105464649</updated>
       <workItem from="1608105470429" duration="5242000" />
       <workItem from="1608117948063" duration="2997000" />
+      <workItem from="1608124148067" duration="1981000" />
+      <workItem from="1608726635708" duration="993000" />
     </task>
     <servers />
   </component>
@@ -67,29 +71,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="69" key="GridCell.Tab.0.bottom" timestamp="1608123935711">
+    <state width="1877" height="98" key="GridCell.Tab.0.bottom" timestamp="1608727629297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1320" height="95" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1608113308722" />
-    <state width="1877" height="69" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608123935711" />
-    <state width="1877" height="69" key="GridCell.Tab.0.center" timestamp="1608123935711">
+    <state width="1877" height="98" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608727629297" />
+    <state width="1877" height="98" key="GridCell.Tab.0.center" timestamp="1608727629297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1320" height="95" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1608113308721" />
-    <state width="1877" height="69" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608123935711" />
-    <state width="1877" height="69" key="GridCell.Tab.0.left" timestamp="1608123935711">
+    <state width="1877" height="98" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608727629297" />
+    <state width="1877" height="98" key="GridCell.Tab.0.left" timestamp="1608727629297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1320" height="95" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1608113308720" />
-    <state width="1877" height="69" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608123935711" />
-    <state width="1877" height="69" key="GridCell.Tab.0.right" timestamp="1608123935711">
+    <state width="1877" height="98" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608727629297" />
+    <state width="1877" height="98" key="GridCell.Tab.0.right" timestamp="1608727629297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1320" height="95" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1608113308722" />
-    <state width="1877" height="69" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608123935711" />
-    <state x="-1091" y="99" key="Rider.ProjectTemplateDialog.Size" timestamp="1608112116686">
-      <screen x="-1366" y="0" width="1366" height="728" />
+    <state width="1877" height="98" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608727629297" />
+    <state x="387" y="141" key="Rider.ProjectTemplateDialog.Size" timestamp="1608726684263">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1091" y="99" key="Rider.ProjectTemplateDialog.Size/-1366.0.1366.728/0.0.1920.1040@-1366.0.1366.728" timestamp="1608112116686" />
+    <state x="387" y="141" key="Rider.ProjectTemplateDialog.Size/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608726684263" />
   </component>
 </project>

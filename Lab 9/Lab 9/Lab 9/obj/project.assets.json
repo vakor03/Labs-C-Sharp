@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ClassLibrary2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary2.dll": {}
+        }
+      },
+      "ClassLibrary29876/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary29876.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary29876.dll": {}
+        }
+      },
+      "StringLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StringLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary2/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary2/ClassLibrary2.csproj",
+      "msbuildProject": "../ClassLibrary2/ClassLibrary2.csproj"
+    },
+    "ClassLibrary29876/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary29876/ClassLibrary29876.csproj",
+      "msbuildProject": "../ClassLibrary29876/ClassLibrary29876.csproj"
+    },
+    "StringLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StringLibrary/StringLibrary.csproj",
+      "msbuildProject": "../StringLibrary/StringLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ClassLibrary2 >= 1.0.0",
+      "ClassLibrary29876 >= 1.0.0",
+      "StringLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Вакор\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\Lab 9\\Lab 9.csproj",
+      "projectName": "Lab 9",
+      "projectPath": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\Lab 9\\Lab 9.csproj",
+      "packagesPath": "C:\\Users\\Вакор\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\Lab 9\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Вакор\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\ClassLibrary29876\\ClassLibrary29876.csproj": {
+              "projectPath": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\ClassLibrary29876\\ClassLibrary29876.csproj"
+            },
+            "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\ClassLibrary2\\ClassLibrary2.csproj": {
+              "projectPath": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\ClassLibrary2\\ClassLibrary2.csproj"
+            },
+            "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\StringLibrary\\StringLibrary.csproj": {
+              "projectPath": "C:\\Users\\Вакор\\Desktop\\Labs C#\\Lab 9\\Lab 9\\StringLibrary\\StringLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\Вакор\\.dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
